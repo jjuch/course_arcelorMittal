@@ -1,0 +1,4 @@
+matplotlib==3.9.2
+numpy
+control==0.10.1
+do_mpc==4.6.5
